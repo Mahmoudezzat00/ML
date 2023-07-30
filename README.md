@@ -29,10 +29,16 @@ data_prep.ipynb - the code to generate the team-level dataset from an athlete-le
 To follow this project, please install the following locally:
 
 Python 3.8+
+
+
 Python packages
+
 pandas
+
 numpy
+
 scikit-learn
+
 seaborn
 
 # Data
